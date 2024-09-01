@@ -30,7 +30,7 @@ const Navbar = ({items}) => {
         <>
         
         <div className="navbar sticky top-0 z-10 bg-slate-100  flex justify-around items-center">
-          <div className="company-logo  "><img className="logo-img" src={logo}></img></div>
+          <div className="company-logo bold ">Doctor Ai</div>
           
           <div className="menu flex justify-around items-center">
             

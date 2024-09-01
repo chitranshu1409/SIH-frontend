@@ -8,19 +8,19 @@ const features = [
   {
     name: '24/7 Support',
     description:
-      "Experience unparalleled excellence with our company's top-tier support – we're here to ensure your success every step of the way!",
+      "Experience unparalleled excellence with our top-tier support – we're here to ensure your healthy lifestyle!",
     icon: customercare,
   },
   {
-    name: 'Dedicated RM',
+    name: 'Doctor Ai',
     description:
-    "Enjoy personalized service with our dedicated Relationship Manager, ensuring your needs are met with utmost attention and care!",
+    "Doctor AI is a cutting-edge chatbot designed to provide medical consultations, offering accurate diagnoses and personalized treatment plans just like a real doctor",
     icon: manager,
   },
   {
-    name: 'Unbiased Advice',
+    name: 'Instant Appointments',
     description:
-      "Count on us for unbiased advice, guiding you towards the best decisions with integrity and expertise!",
+      "Instant Appointment Booking allows patients to effortlessly schedule consultations with their doctor in just a few clicks.",
     icon: handshake,
   },
   {
